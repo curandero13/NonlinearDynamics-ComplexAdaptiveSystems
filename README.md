@@ -5,3 +5,4 @@ Facultad de Ciencias, UNAM
 
 Repository for code, jupyter notebooks containing tools for data analysis and nonlinear dynamics modeling 
 
+CC0 1.0 Universal
